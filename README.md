@@ -1,6 +1,5 @@
 # 📚 Libft: The 42 School Custom C Library
 
-[![42 School Logo]](https://www.42.fr)
 [![C Language Badge](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
