@@ -44,7 +44,7 @@ To use this library in your own C projects:
 
     **Compilation command:**
     ```bash
-    gcc -Wall -Wextra -Werror main.c -L. -lft -I. -o my_program
+    cc -Wall -Wextra -Werror main.c -L. -lft -I. -o my_program
     ```
     * `-L.`: Tells the compiler to look for libraries in the current directory.
     * `-lft`: Links the `libft.a` library (the `-l` flag drops the `lib` prefix and the `.a` extension).
