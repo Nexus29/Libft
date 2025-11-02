@@ -23,7 +23,7 @@ To use this library in your own C projects:
 1.  **Clone the Repository:**
     ```bash
     git clone git@github.com:Nexus29/Libft.git
-    cd libft
+    cd Libft
     ```
 
 2.  **Compile the Library:**
