@@ -22,8 +22,8 @@ To use this library in your own C projects:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Nexus29/42-libft.git](https://github.com/Nexus29/42-libft.git)
-    cd 42-libft
+    git clone git@github.com:Nexus29/Libft.git
+    cd libft
     ```
 
 2.  **Compile the Library:**
